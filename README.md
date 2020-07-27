@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![Imaage](https://i.loli.net/2020/07/27/wrhAgdcGQFsKeiy.jpg?raw=true)](https://github.com/Chris-z-su)
-
+-->
 <!--
 **Chris-z-su/Chris-z-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
